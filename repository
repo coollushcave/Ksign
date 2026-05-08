@@ -14,7 +14,7 @@
   "headerURL": "https://crystall1ne.dev/media/the_point.png",
   "apps": [
     {
-      "name": "Minecraft Launcher",
+      "name": "Delta-2.718.1110",
       "bundleIdentifier": "org.hanthedev.amethyst",
       "developerName": "Tester",
       "subtitle": "A Minecraft Launcher.",

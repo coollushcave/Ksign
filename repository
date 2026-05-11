@@ -33,6 +33,21 @@
           "minOSVersion": "13.0"
         }
       ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.private.security.container-required",
+          "com.apple.private.mobileinstall.upgrade-enabled",
+          "com.apple.private.security.no-sandbox",
+          "com.apple.private.security.storage.AppDataContainers",
+          "com.apple.private.security.storage.MobileDocuments",
+          "com.apple.security.iokit-user-client-class",
+          "platform-application",
+          "get-task-allow",
+          "com.apple.developer.kernel.extended-virtual-addressing",
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.private.memorystatus",
+          "local.sandboxed-jit"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
           "NSContactUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",

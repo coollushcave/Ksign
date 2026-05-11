@@ -19,54 +19,9 @@
       "developerName": "Tester",
       "subtitle": "A Minecraft Launcher.",
       "localizedDescription": "Test.",
+      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
       "tintColor": "#9649B8",
       "category": "games",
-      "screenshots": {
-        "iphone": [
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-            "width": 2796,
-            "height": 1290
-          }
-        ],
-        "ipad": [
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_1.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_2.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_3.PNG",
-            "width": 2796,
-            "height": 1290
-          },
-          {
-            "imageURL": "https://alt.crystall1ne.dev/net.kdt.pojavlauncher_iphone-ipod_4.PNG",
-            "width": 2796,
-            "height": 1290
-          }
-        ]
-      },
       "versions": [
         {
           "version": "1.0.00678b0",

@@ -17,17 +17,17 @@
       "name": "Delta-2.718.1110",
       "bundleIdentifier": "org.hanthedev.amethyst",
       "developerName": "Tester",
-      "subtitle": "A Minecraft Launcher.",
+      "subtitle": "Explore a growing libary of games of every genre. Play instantly anywhere.",
       "localizedDescription": "Test.",
-      "iconURL": "https://raw.githubusercontent.com/coollushcave/Ksign/main/Assets/AppIcon60x60%402x.png?utm_source=chatgpt.com",
+      "iconURL": "https://raw.githubusercontent.com/coollushcave/Ksign/main/Assets/AppIcon60x60%402x.png",
       "tintColor": "#9649B8",
       "category": "games",
       "versions": [
         {
-          "version": "1.0.00678b0",
+          "version": "2.718.1110",
           "date": "2026-04-12T14:23:01.984108+00:00",
-          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"00678b0\" on the GitHub repo.",
-          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/00678b0/org.angelauramc.amethyst-1.0-ios.ipa",
+          "localizedDescription": "To make Roblox work better for you, we deliver updates regularly. These updates include bug fixes and improvements for speed and reliability.",
+          "downloadURL": "https://github.com/coollushcave/Ksign/releases/download/ipa/Delta-2.718.1110.ipa",
           "size": 150348697,
           "beta": true,
           "minOSVersion": "14.0"

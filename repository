@@ -247,7 +247,7 @@
   ],
   "news": [
     {
-      "title": "Amethyst lands on the AltSource!",
+      "title": "Banner5",
       "identifier": "news_gnuk6c3pqi",
       "caption": "The successor to PojavLauncher, Angel Aura Amethyst provides powerful new capabilities while staying instantly familiar.",
       "date": "2025-10-11T01:09",
@@ -257,7 +257,7 @@
       "appID": "org.angelauramc.amethyst"
     },
     {
-      "title": "PojavLauncherTeam is now AngelAuraMC.",
+      "title": "Banner4",
       "identifier": "dev.crystall1ne.alt.amethyst-news.0",
       "caption": "We're rebuilding to enhance our core principles - and it all starts with Amethyst.",
       "tintColor": "#9649B8",
@@ -268,7 +268,7 @@
       "notify": true
     },
     {
-      "title": "PojavLauncher Repository is now crystall1ne.dev.",
+      "title": "Banner3",
       "identifier": "dev.crystall1ne.alt.source-news.0",
       "caption": "This huge update to my AltSource enables futureproofing and more space for my creations.",
       "tintColor": "#99140b",
@@ -278,7 +278,7 @@
       "notify": true
     },
     {
-      "title": "PojavLauncher 2.2 Deepslate",
+      "title": "Banner2",
       "identifier": "dev.crystall1ne.alt.Pojav-news.0",
       "caption": "The next release of PojavLauncher is out now - get it now!",
       "tintColor": "#746344",
@@ -287,7 +287,7 @@
       "notify": true
     },
     {
-      "title": "Test1",
+      "title": "Banner1",
       "identifier": "dev.crystall1ne.alt.Pojav-news.1",
       "caption": "This minor release backports a few fixes, and includes new packages for iOS 15.",
       "tintColor": "#746344",

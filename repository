@@ -19,7 +19,7 @@
       "developerName": "Tester",
       "subtitle": "A Minecraft Launcher.",
       "localizedDescription": "Test.",
-      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/main/Natives/Assets.xcassets/AppIcon-Light.appiconset/1024x1024.png",
+      "iconURL": "",
       "tintColor": "#9649B8",
       "category": "games",
       "screenshots": {

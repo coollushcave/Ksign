@@ -1,7 +1,7 @@
 {
   "name": "Title",
   "identifier": "com.amethyst.cloud",
-  "subtitle": "The source for everything crystall1nedev.",
+  "subtitle": "The source for everything coollushcave.",
   "description": "description.",
   "iconURL": "https://crystall1ne.dev/media/the_icon.png",
   "website": "https://www.minecraft.net/en-us",
@@ -9,13 +9,13 @@
   "fediUsername": "crystll1ne",
   "tintColor": "#99140b",
   "featuredApps": [
-    "org.hanthedev.amethyst"
+    "com.gloop.deltamobile"
   ],
   "headerURL": "https://crystall1ne.dev/media/the_point.png",
   "apps": [
     {
       "name": "Delta-2.718.1110",
-      "bundleIdentifier": "org.hanthedev.amethyst",
+      "bundleIdentifier": "com.gloop.deltamobile",
       "developerName": "Tester",
       "subtitle": "Play, Create, and Connect",
       "localizedDescription": "Explore a growing libary of games of every genre. Play instantly anywhere.",

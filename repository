@@ -49,8 +49,12 @@
           "local.sandboxed-jit"
         ],
         "privacy": {
-          "NSMicrophoneUsageDescription": "Amethyst uses the microphone to enable support for voice chat mods.",
-          "NSLocalNetworkUsageDescription": "Amethyst uses the local network to find and communicate with AltServer and LAN servers."
+          "NSCameraUsageDescription": "Roblox uses your camera to check your age, animate your avatar, and scan QR codes.",
+          "NSContactUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSLocationWhenInUseUsageDescription": "Roblox needs access to your location to improve your user experience.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience."
         }
       }
     },

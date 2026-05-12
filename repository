@@ -17,11 +17,12 @@
       "name": "Delta-2.718.1110",
       "bundleIdentifier": "org.hanthedev.amethyst",
       "developerName": "Tester",
-      "subtitle": "Explore a growing libary of games of every genre. Play instantly anywhere.",
-      "localizedDescription": "Test.",
+      "subtitle": "Play, Create, and Connect",
+      "localizedDescription": "Explore a growing libary of games of every genre. Play instantly anywhere.",
       "iconURL": "https://raw.githubusercontent.com/coollushcave/Ksign/main/Assets/AppIcon60x60%402x.png",
       "tintColor": "#9649B8",
-      "category": "games",
+      "size": 123,
+      "category": "Action",
       "versions": [
         {
           "version": "2.718.1110",
